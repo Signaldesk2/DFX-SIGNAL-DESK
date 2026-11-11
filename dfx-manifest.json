@@ -1,9 +1,9 @@
 {
-  "id": "/DFX-SIGNAL-MKR/index.html",
+  "id": "/DFX-SIGNAL-MKR/dfx-signal-desk-v2.html",
   "name": "DFX Trade Signal Desk",
   "short_name": "DFX Desk",
   "start_url": "./",
-  "scope": "./",
+  "scope": "./.dfx-signal-desk-v2.html",
   "display": "standalone",
   "background_color": "#0b0c0e",
   "theme_color": "#0b0c0e",
